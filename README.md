@@ -1,3 +1,3 @@
 # AndroidApp
-Made by Oren Gershony, Razvan Teodorescu, and others.
+Made by Oren Gershony and others.
 
